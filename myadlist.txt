@@ -1,0 +1,15 @@
+# These are the ones flagged by Privacy Badger
+# while browsing marca.es
+#  
+ib.adnxs.com
+assets.adobedtm.com
+c.amazon-adsystem.com
+bidder.criteo.com
+pubads.g.doubleclick.net
+contributor.google.com
+fundingchoicesmessages.google.com
+shb.richaudience.com
+sync.richaudience.com
+fastlane.rubiconproject.com
+prg.smartadserver.com
+impes.tradedoubler.com
