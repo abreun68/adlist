@@ -1,18 +1,26 @@
 # These are the ones flagged by Privacy Badger
-# while browsing marca.es
+# while browsing the internet...
 #  
 acdn.adnxs.com
 assets.adobedtm.com
 bidder.criteo.com
 c.amazon-adsystem.com
+cdnjs.cloudflare.com
+cdn.onesignal.com
+cdn.taboola.com
+contextual.media.net
 contributor.google.com
 diario-sport.disqus.com
 fastlane.rubiconproject.com
+fonts.gstatic.com
 fundingchoicesmessages.google.com
 ib.adnxs.com
 impes.tradedoubler.com
+pagead2.googlesyndication.com
 prg.smartadserver.com
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 shb.richaudience.com
+ssl.google-analytics.com
 sync.richaudience.com
+
