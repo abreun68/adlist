@@ -18,9 +18,13 @@ ib.adnxs.com
 impes.tradedoubler.com
 pagead2.googlesyndication.com
 prg.smartadserver.com
+p.typekit.net
 pubads.g.doubleclick.net
+s7.addthis.com
+securepubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 shb.richaudience.com
 ssl.google-analytics.com
 sync.richaudience.com
-
+tags.tiqcdn.com
+use.typekit.net
