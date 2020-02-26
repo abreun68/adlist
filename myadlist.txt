@@ -28,3 +28,5 @@ ssl.google-analytics.com
 sync.richaudience.com
 tags.tiqcdn.com
 use.typekit.net
+####possible malicious####
+valid-install.com
